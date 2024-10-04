@@ -1,0 +1,72 @@
+C:\Users\student\Desktop\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.exe
+C:\Users\student\Desktop\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.deps.json
+C:\Users\student\Desktop\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.runtimeconfig.json
+C:\Users\student\Desktop\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.dll
+C:\Users\student\Desktop\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.pdb
+C:\Users\student\Desktop\Zadanie1\Zadanie1\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\student\Desktop\Zadanie1\Zadanie1\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfo.cs
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.CopyComplete
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.dll
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\refint\Zadanie1.dll
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.pdb
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.genruntimeconfig.cache
+C:\Users\student\Desktop\Zadanie1\Zadanie1\obj\Debug\net8.0\ref\Zadanie1.dll
+C:\Users\student\Pictures\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.exe
+C:\Users\student\Pictures\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.deps.json
+C:\Users\student\Pictures\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.runtimeconfig.json
+C:\Users\student\Pictures\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.dll
+C:\Users\student\Pictures\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.pdb
+C:\Users\student\Pictures\Zadanie1\Zadanie1\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\student\Pictures\Zadanie1\Zadanie1\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.AssemblyReference.cache
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfoInputs.cache
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfo.cs
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.CopyComplete
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.dll
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\refint\Zadanie1.dll
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.pdb
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.genruntimeconfig.cache
+C:\Users\student\Pictures\Zadanie1\Zadanie1\obj\Debug\net8.0\ref\Zadanie1.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.exe
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.deps.json
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.runtimeconfig.json
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.pdb
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.AssemblyReference.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfoInputs.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfo.cs
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.Up2Date
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\refint\Zadanie1.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.pdb
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.genruntimeconfig.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie1\Zadanie1\obj\Debug\net8.0\ref\Zadanie1.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\bin\Debug\net8.0\Zadanie1.exe
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\bin\Debug\net8.0\Zadanie1.deps.json
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\bin\Debug\net8.0\Zadanie1.runtimeconfig.json
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\bin\Debug\net8.0\Zadanie1.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\bin\Debug\net8.0\Zadanie1.pdb
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.AssemblyReference.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfoInputs.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfo.cs
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.Up2Date
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\Zadanie1.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\refint\Zadanie1.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\Zadanie1.pdb
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\Zadanie1.genruntimeconfig.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\Zadanie1\obj\Debug\net8.0\ref\Zadanie1.dll
