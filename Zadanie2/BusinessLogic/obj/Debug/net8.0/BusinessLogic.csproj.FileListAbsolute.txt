@@ -42,3 +42,15 @@ C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\BusinessLog
 C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
 C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
 C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\Zadanie2\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\Users\rolan\Videos\Testowanie i dokumentowanie aplikacji\App_testing\Zadanie2\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll

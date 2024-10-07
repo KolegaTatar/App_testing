@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\Zadanie1\\Zadanie1.csproj": {}
+    "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\Zadanie1\\Zadanie1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\rolan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rolan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\Zadanie1\\Zadanie1.csproj": {
+    "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\Zadanie1\\Zadanie1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\Zadanie1\\Zadanie1.csproj",
+        "projectUniqueName": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\Zadanie1\\Zadanie1.csproj",
         "projectName": "Zadanie1",
-        "projectPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\Zadanie1\\Zadanie1.csproj",
+        "projectPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\Zadanie1\\Zadanie1.csproj",
         "packagesPath": "C:\\Users\\rolan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\Zadanie1\\obj\\",
+        "outputPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\Zadanie1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rolan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj"
               }
             }
           }

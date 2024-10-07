@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BusinessLogic\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\rolan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rolan\\AppData\\Roaming\\NuGet\\NuGet.Config",

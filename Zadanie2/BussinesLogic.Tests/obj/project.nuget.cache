@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mZM/y7AyxHs=",
+  "dgSpecHash": "0Nukjqcax5A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\Zadanie2\\BussinesLogic.Tests\\BussinesLogic.Tests.csproj",
+  "projectFilePath": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie2\\BussinesLogic.Tests\\BussinesLogic.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rolan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\rolan\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
