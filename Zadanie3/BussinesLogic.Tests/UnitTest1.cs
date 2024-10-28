@@ -31,20 +31,17 @@ namespace BussinesLogic.Tests
             Assert.Equal(expected, result);
 
         }
-        /*
+        
         [Fact]
         public void CalculatorAddIntOverflows()
         {
             Calculator calculator = new();
 
             int x = int.MaxValue;
-            int y = int.MaxValue;
+            int y = 2;
 
-            Assert.Throws<OverflowException>(() =>
-            {
-                calculator.Add(x, y);
-            });
-        }*/
+            Assert.Throws<OverflowException>(() => calculator.AddI(x, y));
+        }
 
         [Fact]
         public void CalculatorDivisionToNumbers()
@@ -111,7 +108,7 @@ namespace BussinesLogic.Tests
             int y = int.MaxValue;
             Assert.Throws<OverflowException>(() =>
             {
-                calculator.Add(x, y);
+                calculator.AddI(x, y);
             });
         }
 

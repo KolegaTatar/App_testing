@@ -12,11 +12,13 @@ namespace BusinessLogic
         /// <returns>x+y</returns>
         public double Add(double x, double y)
         {
-            checked
-            {
-                return x + y;
-            }
+            return checked(x+y);
             
+        }
+        public int AddI(int x, int y)
+        {
+            return checked(x + y);
+
         }
         /// <summary>
         /// Kalkulator mający metody służące do dodawania i odejmowania

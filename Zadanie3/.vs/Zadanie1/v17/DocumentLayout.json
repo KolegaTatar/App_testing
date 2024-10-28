@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{CC330B9A-0A75-44B9-85AF-439C6D4C8664}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{390C478F-FC9F-41CC-A19E-0124B55AF7DF}|Zadanie1\\Zadanie1.csproj|c:\\users\\rolan\\videos\\testowanie i dokumentowanie aplikacji\\app_testing\\zadanie3\\zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{390C478F-FC9F-41CC-A19E-0124B55AF7DF}|Zadanie1\\Zadanie1.csproj|solutionrelative:zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6D2974B-4992-4250-86CA-76B6938A9A29}|BussinesLogic.Tests\\BussinesLogic.Tests.csproj|c:\\users\\rolan\\videos\\testowanie i dokumentowanie aplikacji\\app_testing\\zadanie3\\bussineslogic.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D2974B-4992-4250-86CA-76B6938A9A29}|BussinesLogic.Tests\\BussinesLogic.Tests.csproj|solutionrelative:bussineslogic.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +26,28 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie3\\BussinesLogic.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "BussinesLogic.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie3\\BussinesLogic.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "BussinesLogic.Tests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:38:27.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie3\\BusinessLogic\\Class1.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Class1.cs",
               "ToolTip": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie3\\BusinessLogic\\Class1.cs",
               "RelativeToolTip": "BusinessLogic\\Class1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T15:11:48.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie3\\Zadanie1\\Program.cs",
-              "RelativeDocumentMoniker": "Zadanie1\\Program.cs",
-              "ToolTip": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie3\\Zadanie1\\Program.cs",
-              "RelativeToolTip": "Zadanie1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T12:46:07.957Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "BussinesLogic.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\rolan\\Videos\\Testowanie i dokumentowanie aplikacji\\App_testing\\Zadanie3\\BussinesLogic.Tests\\UnitTest1.cs",
               "RelativeToolTip": "BussinesLogic.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAuwG0AAAAWAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAuwHEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T12:46:08.021Z",
               "EditorCaption": ""
